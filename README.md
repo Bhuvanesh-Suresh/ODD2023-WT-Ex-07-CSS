@@ -22,7 +22,7 @@ In the body section, create a division with the text “Saveetha Engineering Col
 Close the HTML structure.
 
 ## CODE:(i)
-~
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -79,7 +79,7 @@ a {
     </h5>
 </body>
 </html>
-~
+```
 ## OUTPUT:(i)
 ![1-a](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/6b1cd720-8948-49ee-bb1f-cf19e37dddcf)
 ![1-b](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/6cddf471-8871-4caa-b6fe-25f98875e824)
