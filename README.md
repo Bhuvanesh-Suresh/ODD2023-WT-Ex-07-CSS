@@ -99,7 +99,7 @@ Define CSS rules for desktop devices. Use a media query to define CSS rules for 
 Inside , create a for the heading and an for the hyperlink.
 
 ## CODE:9(ii)
-~
+```
 <!DOCTYPE html>
 <htm>
   <head>
@@ -147,7 +147,7 @@ Inside , create a for the heading and an for the hyperlink.
     </h5>
 </body>
 </html>
-~
+```
 
 ## OUTPUT:(ii)
 ![2-a](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/875a80cb-a684-433b-ba48-18f746fcc294)
@@ -171,7 +171,7 @@ Close the media query with a }
 ### Step 6:
 Save your HTML file.
 ## CODE:(iii)
-~
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -208,7 +208,7 @@ Save your HTML file.
     </h5>
 </body>
 </html>
-~
+```
 ## OUTPUT:(iii)
 ![3-a](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/c9ee54d4-b490-4684-ba49-c6e28e8fa100)
 ![3-b](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/ec3a16af-65ce-487c-949e-8a3759cdb156)
@@ -234,7 +234,7 @@ Test Your Styles.
 Iterate: Adjust your media queries and styles as needed based on your tests.
 
 ## CODE: (iv)
-~
+```
 <!DOCTYPE html>
 
   <html>
@@ -290,7 +290,7 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </h5>
 </body>
 </html>
-~
+```
 ## OUTPUT:(iv)
 ![4-a](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/3c8acd0e-5278-4627-8bbd-dbd340e0214d)
 ![4-b](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/0454ef96-99fe-4ece-afb9-842714cc2b63)
@@ -316,7 +316,7 @@ Test your styles using the print preview feature in browsers to ensure they work
 Iterate: Adjust your media queries and styles as needed based on your tests.
 
 ## CODE:(v)
-~
+```
 <html>
   <head>
     <style type="text/css">
@@ -357,7 +357,7 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </h5>
 </body>
 </html>
-~
+```
 ## OUTPUT:(v)
 ![5-a](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/5e0f7a5f-b862-4175-857d-8099ed0e71fe)
 ![5-b](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/d15824fd-7df6-449d-9d2f-06a56d4190f1)
@@ -383,7 +383,7 @@ If the user has no preference, you can choose a default color scheme.
 Remember to test your website in both light and dark modes to ensure the colors work well in both settings.
 
 ## CODE: (vi)
-~
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -417,7 +417,7 @@ Remember to test your website in both light and dark modes to ensure the colors 
   </h5>
 </body>
 </html>
-~
+```
 ## OUTPUT: (vi)
 ![6-a](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/448f4ce9-251c-4876-9f51-57c49f1daff8)
 ![6-b](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/2369510e-9ba7-453e-b887-c7f4e52ff61d)
